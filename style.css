@@ -1,0 +1,26 @@
+body {
+    background-color:#ffebcd
+}
+.One {
+    Width: 240px;
+}
+h1 {
+    color: #80715c;
+}
+.Color {
+    color: rgb(255, 255, 144);
+    -webkit-text-stroke: 1px rgb(255, 255, 15);
+    
+}
+button {
+    width:550px;
+    height: 50px;
+    font-size: 30px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: #f1ce98;
+    color: #947240;
+    border-color: #80715c;
+}
